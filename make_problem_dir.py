@@ -8,11 +8,8 @@ from sys import stdin, stdout
 stdin = open('input.txt', 'r')
 input = lambda: stdin.readline().strip()
 
-
 # 문제 풀이 코드 작성
 
-
-if __name__ == "__main__":
 '''
 
 def create_problem_folder(week_folder, problem_id, title):
