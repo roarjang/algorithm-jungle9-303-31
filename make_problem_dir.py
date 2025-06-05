@@ -3,12 +3,29 @@ import os
 TEMPLATE = '''# 문제: https://www.acmicpc.net/problem/{problem_id}
 # 날짜:
 # 난이도:
+# 문제유형:
 
-from sys import stdin, stdout
+# 문제 핵심
+
+
+# _ 알고리즘을 선택한 이유
+
+
+# 입력
+
+
+# 출력
+
+
+# 시간복잡도
+
+
+# 공간복잡도
+
+
+from sys import stdin
 stdin = open('input.txt', 'r')
 input = lambda: stdin.readline().strip()
-
-# 문제 풀이 코드 작성
 
 '''
 
