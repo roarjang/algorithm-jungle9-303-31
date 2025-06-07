@@ -8,7 +8,7 @@ TEMPLATE = '''# 문제: https://www.acmicpc.net/problem/{problem_id}
 # 문제 핵심
 
 
-# _ 알고리즘을 선택한 이유
+# _ 알고리즘을 적용한 이유
 
 
 # 입력
