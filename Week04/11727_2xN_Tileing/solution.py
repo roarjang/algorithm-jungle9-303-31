@@ -1,4 +1,4 @@
-# 문제: https://www.acmicpc.net/problem/11727 2xN 타일링
+# 문제: https://www.acmicpc.net/problem/11727 2xN 타일링 2
 # 날짜: 2025-06-08
 # 난이도: Silver III
 # 문제유형: DP
