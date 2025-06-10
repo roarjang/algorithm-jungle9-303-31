@@ -25,6 +25,7 @@ TEMPLATE = '''# 문제: https://www.acmicpc.net/problem/{problem_id}
 
 from sys import stdin
 stdin = open('input.txt', 'r')
+
 input = lambda: stdin.readline().strip()
 
 '''
