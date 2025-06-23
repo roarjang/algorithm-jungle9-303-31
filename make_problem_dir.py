@@ -5,10 +5,10 @@ TEMPLATE = '''# 문제: https://www.acmicpc.net/problem/{problem_id}
 # 난이도:
 # 문제유형:
 
-# 문제 핵심
+# 문제 설명
 
 
-# _ 알고리즘을 적용한 이유
+# 핵심 아이디어
 
 
 # 입력
