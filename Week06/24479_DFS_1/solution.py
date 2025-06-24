@@ -37,16 +37,17 @@ def dfs(node, graph, visited):
 
 from sys import setrecursionlimit, stdin
 stdin = open('input.txt', 'r')
+input = lambda: stdin.readline().strip()
 # 재귀 깊이 제한 증가 (최악의 경우 100,000개 노드)
 setrecursionlimit(10**6)
 
-# 입력 처리: 정점 수, 간선 수, 시작 정점
+# 입력 처리: 정점 수 N, 간선 수 M, 시작 정점 R
 N, M, R = map(int, input().split())
 
-# graph 초기화: 인접 리스트 방식
+# 그래프 초기화: 인접 리스트 방식
 graph = [[] for _ in range(N + 1)]
 
-# 간선 정복 입력
+# 간선 정보 입력
 for _ in range(M):
     u, v = map(int, input().split())
     graph[u].append(v)
