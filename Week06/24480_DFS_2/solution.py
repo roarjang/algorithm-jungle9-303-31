@@ -1,5 +1,5 @@
 # 문제: https://www.acmicpc.net/problem/24480
-# 날짜:2025-06-24
+# 날짜:2025-06-28
 # 난이도: SILVER II
 # 문제유형: DFS
 
